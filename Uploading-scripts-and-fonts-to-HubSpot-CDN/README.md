@@ -10,7 +10,7 @@ Ideally it would be nice to create a folder for your fonts or scripts. I would c
 
 ### Step 03
 Once uploaded you will need to get a url which you will need to add to your design manager's portal. To get the CDN link click on the cock screw image as follows, the copy the url: 
-![Alt text](https://www.dropbox.com/s/yd9j7xeao9lfwfx/cdn_get_url.png?dl=0 "Getting url")
+![Alt text](/images/cdn_get_url.png "Getting url")
 ```html
 http://cdn2.hubspot.net/hub/165931/file-218958104-js/js/cbpAnimatedHeader.min.js
 ```
